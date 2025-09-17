@@ -3,3 +3,6 @@
 1. Initi and Install
 2. MongoDB Connection 
 3. Blog Model (schema) - schema with 3 fields
+4. Image Upload Middleware - create multer instance that decides destination and names file before storage
+5. Routes
+6. env file
