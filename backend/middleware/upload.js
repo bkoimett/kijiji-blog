@@ -12,7 +12,7 @@ const storage = multer.diskStorage({
 })
 
 // create the multer insteance with our storage configuratuin
-const upload = muller({ storage: storage})
+const upload = multer({ storage: storage})
 
 // export the configured muller instance for use in routes
 module.exports = upload
